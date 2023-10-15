@@ -1,3 +1,17 @@
-h1 {
-  color: red;
+body
+{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p
+{
+  background-color: aquamarine;
+  color: black;
+  margin: auto;
+}
+button
+{
+  padding: 15px 10px;
+  border-radius: 10%;
 }
